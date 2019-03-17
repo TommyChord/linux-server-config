@@ -77,3 +77,8 @@ file catalog.conf
 file to create the tables (with websrv as owner)and add some initial data.
 - Revoked ALL websrv privileges from the database and only added SELECT, INSERT, UPDATE and DELETE on the three tables 
 in the catagory database.
+
+#### Resources
+- Udacity FSWD materials
+- Shyam Guptas tips on the Google API authentication changes: https://gist.github.com/shyamgupta/d8ba035403e8165510585b805cf64ee6
+- Stackoverflow; tips on how to solve error messages that occurrded when migrating from sqllite to PostgreSQL
